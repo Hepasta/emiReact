@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "firebase": "^8.10.1"
+  },
+  "name": "sasha",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ilyxor",
+  "license": "ISC",
+  "description": ""
+}
